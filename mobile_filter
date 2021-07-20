@@ -4,6 +4,7 @@
 ! Description: Filters to fix mobile annoyances for me.
 ###########################################################################################
 $websocket
+$web_manifest
 *##.mobile-instream-ad-holder
 ||cdn.jwplayer.com
 ||content.jwplatform.com
