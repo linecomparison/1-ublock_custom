@@ -15,3 +15,5 @@ $web_manifest
 ||boltdns.net
 *##.zeusAdWrapper
 *##.opt-in
+||media.video-cdn.espn.com^$xhr
+||a1910.g.akamai.net^$xhr
