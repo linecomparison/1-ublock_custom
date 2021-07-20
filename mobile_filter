@@ -6,6 +6,8 @@
 $websocket
 *##.mobile-instream-ad-holder
 ||cdn.jwplayer.com
-||jwplayer-dualstack.map.fastly.net,domain,kens5.com
-||ssl.p.jwpcdn.com^$script,domain=kens5.com
+||jwplayer-dualstack.map.fastly.net
+||ssl.p.jwpcdn.com
 *##.article-featured-video
+*#.ad-slot-wrapper
+||boltdns.net
