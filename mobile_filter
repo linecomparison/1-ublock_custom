@@ -1,3 +1,8 @@
+###########################################################################################
+! Title: Mobile Annoyances
+! Expires: 1 days
+! Description: Filters to fix mobile annoyances for me.
+###########################################################################################
 $websocket
 *##.mobile-instream-ad-holder
 ||cdn.jwplayer.com
