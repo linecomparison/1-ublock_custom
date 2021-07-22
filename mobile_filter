@@ -1,10 +1,9 @@
 ###########################################################################################
-! Title: Mobile Annoyances
+! Title: General Annoyances/Block Auto-Play Video
 ! Expires: 1 days
-! Description: Filters to fix mobile annoyances for me.
+! Description: Filters to fix annoyances for me.
 ###########################################################################################
 $websocket
-$web_manifest
 *##.mobile-instream-ad-holder
 ||cdn.jwplayer.com
 ||content.jwplatform.com
