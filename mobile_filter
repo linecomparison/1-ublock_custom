@@ -17,3 +17,4 @@ $web_manifest
 *##.opt-in
 ||media.video-cdn.espn.com^$xhr
 ||a1910.g.akamai.net^$xhr
+*##.adblock-allowlist-messaging__article-wrapper
