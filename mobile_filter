@@ -37,3 +37,4 @@
 *##.leaderboard-ad-label
 *##.sticky-ad
 *##.has-ad
+*##div[id*="dex-ad-mobile-article"]
