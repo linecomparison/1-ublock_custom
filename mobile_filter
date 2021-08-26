@@ -40,5 +40,6 @@
 *##div[id*="dex-ad-mobile-article"]
 *##.adblock-allowlist-messaging__wrapper
 *##.mobile-instream-ad-holder-single
-###ad--article-top
-###ac-lre-player-ph
+*##.ad--title
+*##.ad--inner
+*##.ad--article-top
