@@ -1,0 +1,14 @@
+###########################################################################################
+! Title: Custom Block
+! Expires: 1 days
+! Description: My default filters for any browser
+###########################################################################################
+$websocket
+@@$websocket,domain=twitch.tv
+@@$websocket,domain=discord.com
+*##.opt-in
+*##.player-sticky
+*##.js-close-sticky
+$xhr,domain=espn.com
+@@||site.api.espn.com^$xhr,domain=espn.com
+@@||site.web.api.espn.com^$xhr,1p
