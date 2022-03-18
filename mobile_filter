@@ -44,3 +44,6 @@
 *##.ad--inner
 *##.ad--article-top
 *##.ad__mobile-footer
+*##div[id*="AdThrive"]
+*##div[id*="cls-video-container"]
+*##div[id*="adm-inline-article-ad"]
