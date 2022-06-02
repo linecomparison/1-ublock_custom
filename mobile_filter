@@ -2,6 +2,7 @@
 ! Title: General Annoyances/Block Auto-Play Video
 ! Expires: 1 days
 ! Description: Filters to fix annoyances for me.
+! Homepage: https://github.com/KnightlyPhoenix/ublock_custom/edit/main/mobile_filter
 ###########################################################################################
 !$websocket
 *##.mobile-instream-ad-holder
